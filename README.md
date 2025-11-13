@@ -21,7 +21,7 @@
 ## Anggota Kelompok
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810230001  | Marchellin Chenika    |
+| 140810230002  | Marchellin Chenika    |
 | 140810230010  | Nikita Putri Prabowo    |
 | 140810230026  | Audrey Shaina Tjandra   |
 
