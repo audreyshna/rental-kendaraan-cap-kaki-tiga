@@ -1,0 +1,65 @@
+*, html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Lexend", sans-serif;
+    overflow-x: hidden;
+}
+
+.container{
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    color: linear-gradient(to bottom, #434343, #2b2f88);
+    margin-top: 50px;
+    margin-bottom: 45px;
+}
+
+.pilihan{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.mobil{
+    background: radial-gradient(circle, #2b2f88 70%, #434343f2);  
+    padding: 20px 50px;
+    border-radius: 15px;
+}
+
+.motor{
+    background: radial-gradient(circle, #2b2f88 70%, #434343f2);  
+    margin-right: 30px;
+    padding: 20px 100px;
+    border-radius: 15px;
+}
+
+.mobil:hover,
+.motor:hover {
+    transform: scale(1.05); 
+}
+
+.Mobil{
+    width: 200px;
+    height: 150px;
+}
+
+.Motor{
+    width: 100px;
+    height: 150px;
+}
+
+h3{
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
