@@ -91,5 +91,5 @@ Halaman Pembayaran
 <!-- Skema Database -->
 ## Skema Database
 
-![alt text](https://github.com/praktikum-tiunpad-2023/project-pemrograman-web-b-cap-kaki-3/blob/main/public/image/mockup/ERD.png?raw=true)
-![alt text](https://github.com/praktikum-tiunpad-2023/project-pemrograman-web-b-cap-kaki-3/blob/main/public/image/mockup/Table-ERD-drawio.png?raw=true)
+![alt text](https://github.com/praktikum-tiunpad-2023/project-pemrograman-web-b-cap-kaki-3/blob/main/public/image/ERD.png?raw=true)
+![alt text](https://github.com/praktikum-tiunpad-2023/project-pemrograman-web-b-cap-kaki-3/blob/main/public/image/Table-ERD-drawio.png?raw=true)
